@@ -1,0 +1,8 @@
+{
+    "name": "Andy",
+    "surname": "Fartushnyi",
+    "age": 25,
+    "adresse": "Dnipro, Yavornytskoho st.",
+    "job": "Junior React Developer",
+    "hobby": ["basketball", "guitar", "carsdesign"]
+}
